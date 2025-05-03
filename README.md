@@ -1,4 +1,10 @@
-## Hi there 👋
+🎓 I'm a Computer Science and Business Systems (CSBS) student passionate about bridging technology and business.
+💡 I enjoy solving real-world problems using software and data-driven approaches.
+🛠️ Skilled in languages like Python, Java, and SQL, with experience in web development and database systems.
+📊 Interested in business analytics, system design, and building scalable tech solutions.
+🌐 Familiar with tools like Git, GitHub, and cloud platforms such as AWS or Azure.
+🤝 I love collaborating on open-source projects and learning from other developers.
+
 
 <!--
 **veeranagouda961/veeranagouda961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
