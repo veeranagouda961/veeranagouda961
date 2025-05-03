@@ -1,9 +1,9 @@
-🎓 I'm a Computer Science and Business Systems (CSBS) student passionate about bridging technology and business.
-💡 I enjoy solving real-world problems using software and data-driven approaches.
-🛠️ Skilled in languages like Python, Java, and SQL, with experience in web development and database systems.
-📊 Interested in business analytics, system design, and building scalable tech solutions.
-🌐 Familiar with tools like Git, GitHub, and cloud platforms such as AWS or Azure.
-🤝 I love collaborating on open-source projects and learning from other developers.
+🎓 I'm a Computer Science and Business Systems (CSBS) student passionate about bridging technology and business.<br>
+💡 I enjoy solving real-world problems using software and data-driven approaches.<br>
+🛠️ Skilled in languages like Python, Java, and SQL, with experience in web development and database systems.<br>
+📊 Interested in business analytics, system design, and building scalable tech solutions.<br>
+🌐 Familiar with tools like Git, GitHub, and cloud platforms such as AWS or Azure.<br>
+🤝 I love collaborating on open-source projects and learning from other developers.<br>
 
 
 <!--
